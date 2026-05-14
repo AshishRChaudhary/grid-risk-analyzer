@@ -1,0 +1,8 @@
+networkx
+matplotlib
+pandas
+streamlit
+pyvis
+neo4j
+torch
+torch-geometric
